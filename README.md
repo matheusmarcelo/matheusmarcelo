@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello World! 👋
 
-<!--
-**matheusmarcelo/matheusmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Me chamo Matheus, tenho 22 anos, moro em São Paulo - SP e sempre fui um entusiasta de tecnologia, atualmente estou estudando programação na etec E.E. Prof. Augusto da Silveira.
+#### Procuro sempre estar atualizado sobre tecnologia, e nas horas livres gosto de praticar códigos. 👨‍💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  💻 Conhecimentos  Back-end
+#### Java | C# | Node.js | .NET
+
+##  💻 Conhecimentos  Front-end 
+#### JavaScript | HTML | CSS | Angular.
+
+<a href="https://www.linkedin.com/in/matheus-marcelo-neves/" alt="Linkedin">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
