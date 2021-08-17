@@ -6,7 +6,7 @@
 
 
 ##  💻 Conhecimentos  Back-end
-#### Java | C# | Node.js | .NET
+#### Java | C# | Node.js | .NET CORE
 
 ##  💻 Conhecimentos  Front-end 
 #### JavaScript | HTML | CSS | Angular.
