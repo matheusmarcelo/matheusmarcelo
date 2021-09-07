@@ -1,14 +1,14 @@
 ## Hello World! 👋
 
-#### Me chamo Matheus, tenho 22 anos, moro em São Paulo - SP e sempre fui um entusiasta de tecnologia, atualmente estou estudando programação na etec E.E. Prof. Augusto da Silveira.
-#### Procuro sempre estar atualizado sobre tecnologia, e nas horas livres gosto de praticar códigos. 👨‍💻
+#### My name is Matheus, I'm 22 years old, I live in São Paulo - SP and I've always been a technology enthusiast, I'm currently studying programming at etec E. E. Prof. Augusto da Silveira. 
+#### I always try to be up to date on technology, and in my free time I like to practice codes.👨‍💻
 
 
 
-##  💻 Conhecimentos  Back-end
+##  💻 Skills Back-end
 #### Java | C# | Node.js | .NET CORE
 
-##  💻 Conhecimentos  Front-end 
+##  💻 Skills Front-end 
 #### JavaScript | HTML | CSS | Angular.
 
 <hr>
