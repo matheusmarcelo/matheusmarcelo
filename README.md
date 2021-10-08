@@ -9,7 +9,7 @@
 #### Java | C# | Node.js | .NET CORE
 
 ##  💻 Skills Front-end 
-#### JavaScript | HTML | CSS | Angular.
+#### JavaScript | HTML | CSS
 
 <hr>
 <a href="https://www.linkedin.com/in/matheus-marcelo-neves/" alt="Linkedin">
