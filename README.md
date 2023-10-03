@@ -6,7 +6,7 @@
 
 
 ##  💻 Skills Back-end
-#### Python | Node.js | MySQL
+#### Python | Node.js | MySQL | PHP | Laravel | C#
 
 ##  💻 Skills Front-end 
 #### JavaScript | HTML | CSS | Django | React
