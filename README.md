@@ -9,7 +9,7 @@
 #### Python | Node.js | MySQL | PHP | Laravel | C#
 
 ##  💻 Skills Front-end 
-#### JavaScript | HTML | CSS | Django | React
+#### JavaScript | HTML | CSS | Angular
 
 <hr>
 <a href="https://www.linkedin.com/in/matheus-marcelo-neves/" alt="Linkedin">
